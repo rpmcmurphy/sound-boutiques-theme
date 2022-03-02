@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rpmcmurphy/sound-boutiques-theme.git">
-    <img src=assets/images/soundboutiques-logo?raw=true" alt="Sound boutiques logo" width="80" height="80">
+    <img src=assets/images/soundboutiques-logo.png?raw=true" alt="Sound boutiques logo" width="80" height="80">
   </a>
 
 <h3 align="center">A completely custom WordPress theme with fully customized WooCommerce and Dokan multi-vendor support, with a custom music player.</h3>
